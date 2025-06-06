@@ -1,0 +1,15 @@
+.principal__botao-contratar{
+    border: solid white;
+    border-radius: 16px;
+    padding: 1.75rem;
+    text-decoration: none;
+    color: #DAA520;
+    font-size: 1.5rem;
+    width: 10%;
+}
+
+.principal__botao-contratar:hover{
+    background-color: #DAA520;
+    color: white;
+}
+    

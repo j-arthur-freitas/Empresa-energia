@@ -1,0 +1,8 @@
+.principal__botoes{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    gap: 400px;
+    margin-top: 4%;
+}
