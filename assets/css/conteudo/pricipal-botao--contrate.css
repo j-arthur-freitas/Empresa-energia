@@ -12,5 +12,7 @@
     background-color: #DAA520;
     color: white;
     }
-
+    .principal__botao-contratar:hover{
+    transform: scale(1.05);
+    }
     
