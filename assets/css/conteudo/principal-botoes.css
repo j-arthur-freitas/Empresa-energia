@@ -6,3 +6,9 @@
     gap: 400px;
     margin-top: 4%;
 }
+.principal__botao:hover,
+    .principal__botao:focus {
+      background-color: #374151;
+      transform: scale(1.05);
+      outline: none;
+    }

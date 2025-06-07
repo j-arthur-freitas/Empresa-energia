@@ -1,3 +1,8 @@
+ @media (max-width: 1024px) {
+      .sobre__conteudo {
+        grid-template-columns: 1fr;
+      }
+    }
 .sobre__conteudo{
     display: grid;
     grid-template-columns: 2fr 1fr;

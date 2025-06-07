@@ -1,3 +1,8 @@
+@media (max-width: 480px) {
+    .principal__titulo {
+        font-size: 18px;
+    }
+}
 .principal__titulo{
     color: #DAA520 ;
     font-family: 'Montserrat', sans-serif; 
