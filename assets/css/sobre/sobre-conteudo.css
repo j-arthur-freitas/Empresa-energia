@@ -1,15 +1,7 @@
-@media (max-width: 600px) {
-    .sobre__conteudo {
-    display: block;
-    align-items: start;
-    justify-content: start;
-    text-align: start;
-    margin-left: 6rem;
-    font-size: 5rem;
+  .sobre__conteudo{
+  font-size: 1.4rem;
+  display: flex;
+  flex-wrap: wrap; 
+  align-items: center; 
+  justify-content: space-between;
   }
-}
-.sobre__conteudo{
-    display: grid;
-    grid-template-columns: 2fr 1fr;
-    gap: 600px;
-}

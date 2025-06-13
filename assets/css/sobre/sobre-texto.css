@@ -1,6 +1,11 @@
 .sobre__texto{
     color: white;
     text-align: center;
-    margin-left: 3rem;
-    font-size: 1.37rem;
+    flex: 1; 
+    max-width: 900px; 
+    margin-right: 40px; 
+    text-align: center;
+    margin-left: 4rem;
+    font-size: 1.9rem;
+    
 }
